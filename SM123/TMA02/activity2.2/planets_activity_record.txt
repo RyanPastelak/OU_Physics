@@ -1,0 +1,152 @@
+SM123 Planets activity record
+Use this record for completing the 'Planetary orbits and kinetic and potential energy' activity in Topic 2. There are two tasks: ensure you complete both of them.
+
+Task 1
+Complete the table for your chosen planet using the relevant data from the provided table, and calculate the potential energy, kinetic energy and total energies at perihelion and at aphelion. 
+Use the spaces below to show the working for your calculation. (You can either use the maths functionality within your word-processing package, or write the calculations out by hand and insert photographs below.) 
+
+Planet name: Mars
+Planet mass: 6.42 × 10²³ kg
+
+Position      r/m              v/m s⁻¹         Eg, planet/J      Ek/J            Total energy/J
+Perihelion    2.07 × 10¹¹     2.65 × 10⁴      -4.12 × 10³²      2.25 × 10³²     -1.87 × 10³²
+Aphelion      2.49 × 10¹¹     2.20 × 10⁴      -3.42 × 10³²      1.55 × 10³²     -1.87 × 10³²
+
+================================================================================
+Calculation of potential energy at perihelion
+================================================================================
+
+Using the equation: Eg = -GMm/r
+
+Where:
+- G = 6.67 × 10⁻¹¹ m³ kg⁻¹ s⁻²
+- M (mass of Sun) = 1.99 × 10³⁰ kg
+- m (mass of Mars) = 6.42 × 10²³ kg
+- r (distance at perihelion) = 206.6 × 10⁶ km = 2.07 × 10¹¹ m
+
+Step 1: Calculate GMm
+GMm = (6.67 × 10⁻¹¹) × (1.99 × 10³⁰) × (6.42 × 10²³)
+    = 6.67 × 1.99 × 6.42 × 10⁽⁻¹¹⁺³⁰⁺²³⁾
+    = 85.2 × 10⁴²
+    = 8.52 × 10⁴³ J·m
+
+Step 2: Divide by r
+Eg = -8.52 × 10⁴³ / 2.07 × 10¹¹
+   = -4.12 × 10³² J
+
+Eg at perihelion = -4.12 × 10³² J (to 3 s.f.)
+
+
+================================================================================
+Calculation of kinetic energy at perihelion
+================================================================================
+
+Using the equation: Ek = ½mv²
+
+Where:
+- m (mass of Mars) = 6.42 × 10²³ kg
+- v (orbital velocity at perihelion) = 26.5 km s⁻¹ = 2.65 × 10⁴ m s⁻¹
+
+Step 1: Calculate v²
+v² = (2.65 × 10⁴)²
+   = 7.02 × 10⁸ m² s⁻²
+
+Step 2: Calculate ½mv²
+Ek = ½ × (6.42 × 10²³) × (7.02 × 10⁸)
+   = 0.5 × 6.42 × 7.02 × 10⁽²³⁺⁸⁾
+   = 0.5 × 45.1 × 10³¹
+   = 22.5 × 10³¹
+   = 2.25 × 10³² J
+
+Ek at perihelion = 2.25 × 10³² J (to 3 s.f.)
+
+
+================================================================================
+Calculation of potential energy at aphelion
+================================================================================
+
+Using the equation: Eg = -GMm/r
+
+Where:
+- G = 6.67 × 10⁻¹¹ m³ kg⁻¹ s⁻²
+- M (mass of Sun) = 1.99 × 10³⁰ kg
+- m (mass of Mars) = 6.42 × 10²³ kg
+- r (distance at aphelion) = 249.2 × 10⁶ km = 2.49 × 10¹¹ m
+
+Step 1: GMm (same as before)
+GMm = 8.52 × 10⁴³ J·m
+
+Step 2: Divide by r
+Eg = -8.52 × 10⁴³ / 2.49 × 10¹¹
+   = -3.42 × 10³² J
+
+Eg at aphelion = -3.42 × 10³² J (to 3 s.f.)
+
+
+================================================================================
+Calculation of kinetic energy at aphelion
+================================================================================
+
+Using the equation: Ek = ½mv²
+
+Where:
+- m (mass of Mars) = 6.42 × 10²³ kg
+- v (orbital velocity at aphelion) = 21.97 km s⁻¹ = 2.20 × 10⁴ m s⁻¹
+
+Step 1: Calculate v²
+v² = (2.20 × 10⁴)²
+   = 4.84 × 10⁸ m² s⁻²
+
+Step 2: Calculate ½mv²
+Ek = ½ × (6.42 × 10²³) × (4.84 × 10⁸)
+   = 0.5 × 6.42 × 4.84 × 10⁽²³⁺⁸⁾
+   = 0.5 × 31.1 × 10³¹
+   = 15.5 × 10³¹
+   = 1.55 × 10³² J
+
+Ek at aphelion = 1.55 × 10³² J (to 3 s.f.)
+
+
+================================================================================
+Calculation of total energy at perihelion
+================================================================================
+
+Total energy = Ek + Eg
+
+Total energy = (2.25 × 10³²) + (-4.12 × 10³²)
+             = 2.25 × 10³² - 4.12 × 10³²
+             = -1.87 × 10³² J
+
+Total energy at perihelion = -1.87 × 10³² J (to 3 s.f.)
+
+
+================================================================================
+Calculation of total energy at aphelion
+================================================================================
+
+Total energy = Ek + Eg
+
+Total energy = (1.55 × 10³²) + (-3.42 × 10³²)
+             = 1.55 × 10³² - 3.42 × 10³²
+             = -1.87 × 10³² J
+
+Total energy at aphelion = -1.87 × 10³² J (to 3 s.f.)
+
+
+================================================================================
+Task 2
+================================================================================
+Based on the calculated values obtained within your tutor group, describe what you notice about the values for total energy for planets in orbit, and explain why this might be the case (no more than 100 words).
+
+Comparing total energy values across all planets studied:
+- Mercury: -3.78 × 10³² J
+- Earth: -2.65 × 10³³ J
+- Mars: -1.87 × 10³² J
+- Uranus: -2.01 × 10³³ J
+
+I notice that for each planet, the total energy remains constant at both perihelion and aphelion, despite kinetic and potential energies varying. This demonstrates conservation of energy: in an isolated two-body system where only conservative gravitational forces act, total mechanical energy is conserved. At perihelion, increased kinetic energy (higher speed) is exactly balanced by decreased potential energy (closer to Sun), and vice versa at aphelion.
+
+Word count: 83
+
+
+Make sure you upload your completed record to the appropriate slot in your online notes once you have finished this activity.

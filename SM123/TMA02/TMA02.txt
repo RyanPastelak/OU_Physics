@@ -1,0 +1,193 @@
+12/28/25, 8:13 PM Tutor marked assignment (TMA) 02: View as single page | OU online
+Unless otherwise stated, copyright © 2025 The Open University, all rights reserved.
+Printable page generated Monday 29 December 2025 at 04:12
+Tutor marked assignment (TMA) 02
+Introduction
+TMA 0 2 contributes up to 6% to your overall module score. It covers a range of activities that you
+have undertaken while studying Python 1 and the Topics 1, 2 and 3 in Weeks 5–11.
+You should submit your completed assignment to arrive no later than 12 noon (UK local time) on the
+cut-off date, as outlined in your Assessment tab or Study Calendar. (Please note that although this
+assignment will be marked out of 50, the total marks for the four questions in this TMA count for 6% of
+the assessment for the whole module.)
+There are five questions in this assignment. Question 1 relates to Python 1: Introduction to Python;
+Question 2 relates to Topic 1: Forces around you, Question 3 relates to Topic 2: An introduction to energy,
+Question 4 relates to Topic 3: Material worlds, and Question 5 involves self-reflection on your skills
+development across these weeks of your study.
+Each question is associated with up to three of the module's learning outcomes. You will be assessed on
+how well your work demonstrates that you have achieved the learning outcomes using the following scale:
+well demonstrated (WD)
+demonstrated (D)
+just demonstrated (JD)
+not quite demonstrated (NQD)
+not demonstrated (ND).
+Each of these levels corresponds with a learning outcome score of between 0 (ND) and 4 (WD). The mark
+for the TMA is calculated from a weighted sum of these scores.
+The assignment requires you to assemble the outputs of some of the activities you have undertaken from
+each week's work. Rather than completing the assignment just prior to the cut-off date, you may find it
+helpful to complete each question during the week you are studying the corresponding work. That way, you
+should have little extra work to do before submitting your assignment.
+Often a question will instruct you to ‘copy and paste’ your answers from material that you have previously
+saved in your Open Studio resources. When doing so, be sure to paste your written answers into your
+TMA document as text and not as an image or picture of the text. This will ensure that your tutor is able to
+annotate your answers as part of their feedback on your assignment.
+https://learn2.open.ac.uk/mod/oucontent/view.php?id=2561524&printable=1 1/7
+12/28/25, 8:13 PM Tutor marked assignment (TMA) 02: View as single page | OU online
+Where word limits are specified in questions, please include a word count with your submitted answer.
+Exceeding the word limit by up to 10% will not be penalised.
+The main purpose of this assignment is for you to receive feedback on your skills development from your
+tutor prior to you undertaking assignments that contribute more substantially to your overall module score.
+Identifying your work and submitting your TMA
+This module uses the online TMA/EMA service for submission of TMAs.
+Create a document and save it in Word format (.doc or .docx). Name your document using your
+surname, your student number, the module and assignment number (e.g.
+Jones_A1234567_SM123_02) and ensure that these details are included as a header or footer on
+every page of your assignment.
+Assemble, as instructed in this TMA, the various components you need to submit for your
+assignment.
+Please do not include the question text or learning outcomes in your submission. This can make files
+unnecessarily large and more difficult to navigate through during marking. Additionally, if a (previous)
+student has breached Open University rules and placed any question or part of a question on the
+Internet, a script which includes the question will show up on the plagiarism checks and will be held,
+pending manual checks; this can delay the return of your script considerably.
+To submit your completed TMA document, please go to your StudentHome page and follow the link(s)
+provided.
+If you foresee any difficulty with submitting your assignment on time then you should contact your
+tutor in advance of the cut-off date.
+For further information about policy, procedure and general submission of assignments, refer to the
+Assessment Handbook, which can also be accessed via your StudentHome page.
+Question 1 (8 marks)
+This question carries 16% of the marks for this assignment.
+It is associated with your study of Python 1: Introduction to Python (Week 7).
+https://learn2.open.ac.uk/mod/oucontent/view.php?id=2561524&printable=1 2/7
+12/28/25, 8:13 PM Tutor marked assignment (TMA) 02: View as single page | OU online
+You will be assessed according to how well you demonstrate, in your answer, the following learning
+outcomes and learning outcome ‘spokes’ as detailed in the skills radar diagrams:
+CS3 Analyse problems in physical science and design logical plans for the development of software
+solutions to them.
+Analyse problems (4 marks)
+PPS4 Implement software solutions in Python to simple problems in physical science.
+Data types and structures; Sequences and iterations (4 marks)
+In Activity 2.2, you were presented with a Python program which uses Euclid's algorithm to find the
+greatest common divisor of two integers greater than zero. You were presented with some tasks
+concerning this program and asked to upload your responses to the appropriate slot in your OpenStudio
+online notes.
+a. First, you were asked to write a series of bullet points which explained clearly what each line of the
+program does. You should copy and paste into your TMA document this set of bullet points.
+b. You were then asked how you might write a while-loop around each of the input statements to ensure
+that the program repeatedly asks the user for input if the value entered is less than or equal to zero,
+and only proceeds once a value greater than zero is entered. You should copy and paste into your
+TMA document the additional lines of code needed to achieve this and your explanation of what they
+do. (N.B. Be sure to paste your lines of code as text, not as an image or picture of the lines of code.
+This is so that your tutor can copy and paste your code into a Jupyter Notebook and run it for
+themselves.)
+Question 2 (12 marks)
+This question carries 24% of the marks for this assignment.
+It is associated with your study of Topic 1: Forces around you (Weeks 5-6).
+You will be assessed according to how well you demonstrate, in your answer, the following learning
+outcomes and learning outcome ‘spokes’ as detailed in the skills radar diagrams:
+PPS1 Carry out practical science; make and accurately record observations, and use these to draw
+informed conclusions about the subject of the investigation.
+https://learn2.open.ac.uk/mod/oucontent/view.php?id=2561524&printable=1 3/7
+12/28/25, 8:13 PM Tutor marked assignment (TMA) 02: View as single page | OU online
+Designing experiments (4 marks)
+Making/recording observations (4 marks)
+CS2 Apply basic mathematics developed in MST124 to solve problems in physical science.
+Angular measure (4 marks)
+In Activity 2.2, you were asked to measure the angle, θ, at which a food can starts to slide down an
+inclined surface, and to use this value to calculate the value of the coefficient of friction, μ.
+a. You were asked to make notes on your observations, which were to be uploaded to your electronic
+lab book. Using your notes:
+i. In your TMA document, write a description of the experiment you performed and the equipment
+you used. You should include sufficient information for other people to be able to repeat your
+experiment. (N.B. Do not simply copy the "method" from Section 2.3.1 verbatim. You should
+describe how you actually carried out the experiment in practice.)
+ii. In your TMA document, write the value for your measured angle, θ, and explain how you
+measured it. Include your raw data showing all repeated measurements, as well as your
+average value of the angle. Again you should provide sufficient detail to allow the experiment to
+be repeated by someone else.
+b. You were then asked to use your measured angle θ to calculate μ, the coefficient of friction. By
+considering the forces acting on the can, write into your TMA document all the steps you took to
+derive an expression for μ in terms of θ, and then show how you calculated its value.
+Question 3 (12 marks)
+This question carries 24% of the marks for this assignment.
+It is associated with your study of Topic 2: An introduction to energy (Weeks 8-9).
+You will be assessed according to how well you demonstrate, in your answer, the following learning
+outcomes and learning outcome ‘spokes’ as detailed in the skills radar diagrams:
+CS1 Use appropriate searching, graphical, mathematical, and presentational methods to gather,
+analyse and interpret physical science data and information.
+Extracting information (4 marks)
+https://learn2.open.ac.uk/mod/oucontent/view.php?id=2561524&printable=1 4/7
+12/28/25, 8:13 PM Tutor marked assignment (TMA) 02: View as single page | OU online
+CS2 Apply basic mathematics developed in MST124 to solve problems in physical science.
+Algebra & Units (4 marks)
+PPS2 Work collaboratively and flexibly with others through sharing knowledge, information and data
+to solve problems and/or obtain a common outcome.
+Sharing digital content (4 marks)
+a. In Activity 2.2, you investigated the energy of an orbiting planet by using data about the mass,
+velocity and distance from the Sun of that planet at its perihelion and aphelion to calculate potential,
+kinetic and total energies. You should copy and paste into your TMA document:
+i. A table showing your chosen planet's name and mass, its distance from the Sun, and its orbital
+velocities at perihelion and aphelion, together with your calculated values for its potential,
+kinetic and total energies at these points in its orbit.
+ii. Your full workings for your calculations of potential and kinetic energy at both perihelion and
+aphelion.
+b. In Activity 2.2, you were asked to share with your tutor group the values you calculated for the total
+energy of planets in orbit, to see how your calculations compare with those for other planets.
+You should copy and paste into your TMA document the short paragraph (no more than 100 words)
+that you prepared reflecting on the total energy values obtained by your tutor group for planets in
+orbit, describing what you noticed and what conclusions you reached.
+Question 4 (12 marks)
+This question carries 24% of the marks for this assignment.
+It is associated with your study of Topic 3: Material worlds (Weeks 10-11).
+You will be assessed according to how well you demonstrate, in your answer, the following learning
+outcomes and learning outcome ‘spokes’ as detailed in the skills radar diagrams:
+CS1 Use appropriate searching, graphical, mathematical, and presentational methods to gather,
+analyse and interpret physical science data and information.
+Extracting information (8 marks)
+https://learn2.open.ac.uk/mod/oucontent/view.php?id=2561524&printable=1 5/7
+12/28/25, 8:13 PM Tutor marked assignment (TMA) 02: View as single page | OU online
+KS2 Communicate physical science ideas, using different types of technology, and using a range of
+formats including the written word, pictures, diagrams, tables and computer programs.
+Scientific writing (4 marks)
+a. In Activity 3.4, you plotted data from a table to investigate the electrical conductivity of two ionic
+compounds. You should copy and paste into your TMA document the graph you plotted, showing
+your best fit straight lines drawn through each data set.
+b. You were then given a particular concentration and asked to determine the conductivity of the two
+solutions at this concentration. You should copy and paste into your TMA document a full explanation
+of how you determined the conductivities using your graph, and the results of these determinations,
+in each case.
+c. Finally you were asked to comment on which compound has the higher conductivity and to discuss
+why you think this is the case. You should copy and paste into your TMA document the short
+paragraph (no more than 100 words) that you prepared containing your conclusion as to which
+compound has the higher conductivity and why you think this is.
+Question 5 (6 marks)
+This question carries 12% of the marks for this assignment.
+It is associated with your reflection of your skills development through the use of the radar diagrams.
+You will be assessed according to how well you demonstrate, in your answer, the following learning
+outcome and learning outcome ‘spokes’ as detailed in the skills radar diagrams:
+PPS3 Plan your learning, reflect on your development and use these reflections to inform your future
+work.
+Personal development plan (6 marks)
+In the ‘Reflect and plan’ sections of Python 1 and of Topics 1, 2 and 3, you were asked to update several
+of your skills diagrams including CS1 Gathering and evaluating information, CS2 Mathematics, CS3
+Analyse problems and plan software solutions, KS1 Scientific method, KS2 Communicating ideas, and
+PPS1 Practical work.
+Create a table like the one below in your TMA document. Copy and paste your original versions of these
+six radar diagrams in the ‘Original diagram’ column and your current versions in the ‘Current diagram’
+https://learn2.open.ac.uk/mod/oucontent/view.php?id=2561524&printable=1 6/7
+12/28/25, 8:13 PM Tutor marked assignment (TMA) 02: View as single page | OU online
+column. (The ‘Original diagrams’ should either be the ones you submitted in TMA 00, or the ones you
+submitted in TMA 01, whichever are the most recent ones in each case that you sent to your tutor before
+this TMA.) This arrangement will allow an easy comparison between the two sets to be made.
+Learning outcome Original diagram Current diagram
+CS1
+CS2
+CS3
+KS1
+KS2
+PPS1
+Choose one of the six radar diagrams that you feel reflects where you have made most improvement since
+the previously submitted version of the diagram, and similarly the one of the six radar diagrams where you
+feel you need to make the most improvement. For both of the diagrams you have identified explain, in no
+more than 50 words for each, why you have rated your ability as you have done.
+https://learn2.open.ac.uk/mod/oucontent/view.php?id=2561524&printable=1 7/7

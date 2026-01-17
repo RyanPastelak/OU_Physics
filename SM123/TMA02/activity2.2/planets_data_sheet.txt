@@ -1,0 +1,31 @@
+SM123 Planets data sheet
+Use these data for completing the ‘Planetary orbits and kinetic and potential energy’ activity in Topic 2.
+PARAMETER	PLANET
+	MERCURY	EARTH	MARS	URANUS
+Mass/1024 kg	0.330	5.97	0.642	86.8
+Diameter/km	4879	12756	6792	51118
+Density/kg m−3	5427	5514	3933	1271
+Volume/1010 km3	6.083	108.321	16.318	6833
+Equatorial radius/km	2439.7	6378.1	3396.2	25559
+Gravity/m s−2	3.7	9.8	3.7	8.7
+Escape velocity/km s−1	4.3	11.2	5	21.3
+Rotation period/hours	1407.6	23.9	24.6	−17.2
+Length of day/hours	4222.6	24	24.7	17.2
+Mean distance from Sun/106 km	57.9	149.6	227.9	2872.5
+Distance from Sun: perihelion/106 km	46.0	147.1	206.6	2741.3
+Distance from Sun: aphelion/106 km	69.8	152.1	249.2	3003.6
+Orbital period/days	88.0	365.2	687	30589
+Mean orbital velocity/km s−1	47.4	29.8	24.1	6.8
+Orbital velocity: perihelion/km s−1	58.98	30.29	26.5	7.11
+Orbital velocity: aphelion/km s−1	38.86	29.29	21.97	6.49
+Orbital inclination/degrees	7	0	1.9	0.8
+Orbital eccentricity	0.205	0.017	0.094	0.046
+Obliquity to orbit/degrees	0.034	23.4	25.2	97.8
+Mean temperature/°C	167	15	−65	−195
+Surface pressure/bar	0	1	0.01	unknown
+Number of moons	0	1	2	27
+Ring system	No	no	no	yes
+Global magnetic field	Yes	yes	no	yes
+
+Data taken from the individual fact sheets in: 
+Williams, D.R. (2017) Planetary Fact Sheet – Metric [Online]. Available at https://nssdc.gsfc.nasa.gov/planetary/factsheet/ (Accessed 15 December 2017).

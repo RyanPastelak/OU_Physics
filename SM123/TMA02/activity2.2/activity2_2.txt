@@ -1,0 +1,25 @@
+For this activity we have provided you with two documents.
+
+The first is a planets data sheet, which contains numerical facts about planets in our Solar System.
+The second is the planets activity record, which you will use to store your calculations and answers.
+Both documents are available from the ‘Resources’ section of the module website. You will need to submit your activity record to my online notes once you have completed both of the tasks below.
+
+Task 1
+First, decide what planet you wish to study by picking one of the four options in the data sheet. Once you have selected a planet make a note of the following in the table provided in your activity record:
+
+the mass of the planet
+its distance from the Sun (r) at the perihelion and aphelion of its orbit
+its speed (v, named the ‘orbital velocity’ in the fact sheet) at the perihelion and aphelion of its orbit.
+Remember to use correct scientific notation, with numbers rounded to three significant figures. Make sure that you are careful with the units you record: the units provided in the data sheet may not always be the same you are asked for in table in the activity record.
+
+Once you have recorded these values, use them to make the following six calculations:
+
+the potential energy of your planet at perihelion
+the kinetic energy of your planet at perihelion
+the potential energy of your planet at aphelion
+the kinetic energy of your planet at aphelion
+the total energy of your planet at perihelion
+the total energy of your planet at aphelion.
+Dedicated space is provided in the activity record for you to show your working for each calculation. (You can either do this using the maths functionality in your word-processor software or write out the calculations by hand and insert photographs into your record.) Answers should be given using correct scientific notation and rounded to three significant figures.
+
+We’ve included examples of the calculations using data for Jupiter at perihelion in the discussion below, if you want to use these for reference.

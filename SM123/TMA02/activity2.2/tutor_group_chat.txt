@@ -1,0 +1,267 @@
+
+Simon MinnicanPost 1
+10 Nov 2025 18:43
+Unread post
+Hi All!
+
+So I've had a look at this activity and calculated the total energy for the planet Uranus. 
+
+I see we're to compare the planets we've investigated and discuss commonalities.
+
+So assuming that I've calculated correctly the total energy for the planet Uranus, for both perihelion and aphelion, is -2.00 x 1033 J to 3 significant figures.
+
+Best wishes
+
+Simon 😊
+
+Replyto post 1Permalinkto post 1Star post
+Next unread
+JM
+Jake MartinPost 2 (unread) in reply to 1
+22 Nov 2025 16:50
+Unread post
+Collapse post
+Uh-oh!
+
+I chose Uranus for my planet as well, but I got a total energy for both positions of sketch.png (to 3 s.f.) ...
+
+One of us has probably made a rounding error but, having checked, if it's me I can't see where. 
+
+Replyto post 2Permalinkto post 2Star post
+Previous unread
+|
+Next unread
+|
+Parentto post 1
+Simon Minnican
+Simon MinnicanPost 3 (unread) in reply to 2
+22 Nov 2025 18:17
+Unread post
+Collapse post
+No it's me Jake, don't be concerned.
+
+I simply failed to round up the third sig. fig. as you've correctly pointed out.
+
+Thanks for the heads up.
+
+Simon 😊
+
+Replyto post 3Permalinkto post 3Star post
+Previous unread
+|
+Next unread
+|
+Parentto post 2
+Elspeth Edwards
+Elspeth EdwardsPost 4 (unread) in reply to 1
+24 Nov 2025 16:08
+Unread post
+Collapse post
+Hi everyone, I chose mercury as my planet. 
+
+I got the total energy for both perihelion and aphelion to be -3.78 x 1032 J to 3 significant figures.
+
+I hope everyone is well smile
+
+Replyto post 4Permalinkto post 4Star post
+Previous unread
+|
+Next unread
+|
+Parentto post 1
+Relaxing.
+Gwyn JonesPost 5 (unread) in reply to 1
+2 Dec 2025 10:37
+Edited by the author on 2 Dec 2025 10:38
+Unread post
+Collapse post
+Hi everyone,
+
+I chose Earth to look at as it wasn't so far for me to travel for accurate observations ;).
+
+I calculated total energy values of -2.65 x 1033 Joules to 3 significant figures for both perihelion and aphelion albeit with varying values for kinetic and potential energies.
+
+It appears there is a pattern forming where total energies at both points in the orbit are equal for all planets.
+
+I found this intriguing and looked further for an explanation. Essentially it appears the closed elliptical orbit of our planet will have an equal amount of total energy regardless of it's position and despite the changes in kinetic and potential energy. 
+
+As no energy is required to overcome opposing forces in the vacuum of space, the total energy must remain constant. So when the Earth is closer to the sun at perihelion it has sped up, gaining kinetic energy, but is closer to the sun and so loses potential energy. The reverse of this must be true at aphelion.
+
+Looking forward to seeing values for Mars and hoping this made some sort of sense smile
+
+All the best,
+
+Gwyn.
+
+Replyto post 5Permalinkto post 5Star post
+Previous unread
+|
+Next unread
+|
+Parentto post 1
+AC
+Alexandra CampanaPost 9 (unread) in reply to 5
+17 Dec 2025 11:36
+Unread post
+Collapse post
+Hi Gwyn, 
+
+I also chose Earth to look at and got the same result(s) as you did. Yay! 
+
+Yes, agreed, the accounts are balancing. The total energy remains the same (energy conservation), but the distribution of the total energy over kinetic energy and potential energy will be different for different distances and speeds.
+
+However, I'm not sure if the sentence "as no energy is required to overcome opposing forces in the vacuum of space, the total energy must remain constant" is an accurate explanation here (genuinely unsure, not trying to be confrontational) - the way I read it, energy conservation is a principle that applies to any system, irrespective of whether that system is space or something else (such as the skier that skis down the mountain).
+
+What do you think? 
+
+Kind regards
+Alexandra
+
+Replyto post 9Permalinkto post 9Star post
+Previous unread
+|
+Next unread
+|
+Parentto post 5
+Relaxing.
+Gwyn JonesPost 10 (unread) in reply to 9
+17 Dec 2025 12:28
+Edited by the author on 17 Dec 2025 12:46
+Unread post
+Collapse post
+Hi Alexandra,
+
+great we had the same figure, I was hoping someone else would look at earth too smile.
+
+I see what you mean and I think you're spot on with energy conservation being a general principle. The sentence implies energy conservation happens because there are no opposing forces, whereas energy conservation holds regardless, provided no external non-conservative forces do net work on the system (such as the skier experiencing wind resistance and friction). 
+
+In a closed two-body system such as the Earth–Sun system, the only force acting is gravity, which is a conservative force. According to Newton’s laws, this force changes the Earth’s velocity (and therefore its kinetic energy) as its distance from the Sun changes, but it does not remove energy from the system. As a result, energy is continually transferred between kinetic and gravitational potential energy while the total mechanical energy remains constant.
+
+I guess a better sentence would be along the lines of - 
+
+Because the Earth–Sun system is isolated and only conservative gravitational forces act, Newton’s laws predict that the total mechanical energy of the orbit remains constant, even though kinetic and potential energies vary with distance.
+
+I hope that helps a bit and we always should question and clarify as scientists! smile
+
+Kind regards,
+
+Gwyn.
+
+Replyto post 10Permalinkto post 10Star post
+Previous unread
+|
+Next unread
+|
+Parentto post 9
+FrancesWhite
+Frances WhitePost 11 (unread) in reply to 10
+17 Dec 2025 16:18
+Unread post
+Collapse post
+👍
+
+Replyto post 11Permalinkto post 11Star post
+Previous unread
+|
+Next unread
+|
+Parentto post 10
+AC
+Alexandra CampanaPost 14 (unread) in reply to 10
+28 Dec 2025 15:24
+Unread post
+Collapse post
+Hi Gwyn, thank you so much! This helped a lot smile. 
+
+Hope you are having a nice festive season!
+
+Kind regards
+Alexandra
+
+Replyto post 14Permalinkto post 14Star post
+Previous unread
+|
+Next unread
+|
+Parentto post 10
+FS
+Frederick StrasheimPost 6 (unread) in reply to 1
+4 Dec 2025 20:35
+Edited by the author on 4 Dec 2025 20:45
+Unread post
+Collapse post
+I also chose Uranus and also got -2.00 x 1033 J (3 s.f.) for both the perihelion and the aphelion.
+
+Of the three planets evaluated so far, Uranus and Earth have surprisingly similar total energies, with Mercury less than an order of magnitude different. I hadn’t expected them to be so close. Since both energy formulas scale with mass, and gravitational potential energy is inversely proportional to orbital radius, an outer planet like Uranus must be significantly more massive to offset its much larger orbital distance. Otherwise, total energy values couldn't be so similar.
+
+Replyto post 6Permalinkto post 6Star post
+Previous unread
+|
+Next unread
+|
+Parentto post 1
+AC
+Amarni ChristopherPost 7 (unread) in reply to 1
+6 Dec 2025 14:13
+Unread post
+Collapse post
+Hi everyone,
+
+I also chose Uranus and calculated the total energy at perihelion and aphelion to be -2.01 x1033 J.
+
+I wish I'd checked the group before hand as we need some Mars data! 
+
+Following the logic of Earth and Uranus having similar values due to Uranus having a much larger mass to offset the huge difference in orbital distance... I'm predicting that Mars will have a total energy which is around one order of magnitude smaller than Earth's total energies as Mars has a mass which is an order of magnitude smaller than Earth's and we know that mass is directly proportional to both kinetic and the potential energy and that the orbital distance of Earth and Mars are not hugely different.
+
+Replyto post 7Permalinkto post 7Star post
+Previous unread
+|
+Next unread
+|
+Parentto post 1
+Asa Bellamy Oswald-Parker
+Asa Bellamy Oswald-ParkerPost 8 (unread) in reply to 1
+17 Dec 2025 10:24
+Unread post
+Collapse post
+Hi everyone!
+
+It would appear that we have a Uranus Fan Club in the making because I chose Uranus as well! I also got -2.01x1033J (to 3 sig.fig.) for the total energy at both perihelion and aphelion.
+
+Replyto post 8Permalinkto post 8Star post
+Previous unread
+|
+Next unread
+|
+Parentto post 1
+JP
+Jack PassPost 12 (unread) in reply to 1
+21 Dec 2025 05:57
+Unread post
+Collapse post
+Hi all,
+
+I chose Earth as my planet (because it's the best one!) and calculated the total energy to be -2.65 x 1033 J at both the Perihelion and Aphelion.
+
+This was expected, due to the 'account books' of energy always requiring to be balanced and that energy is always conserved.
+
+So even though at the Perihelion, the planet is moving faster (i.e. it has more kinetic energy), the potential energy will decrease to compensate, always keeping the total energy the same. Same again at the Aphelion, less kinetic energy means more potental energy.
+
+Jack
+
+Replyto post 12Permalinkto post 12Star post
+Previous unread
+|
+Next unread
+|
+Parentto post 1
+Anastasiia Bozhko
+Anastasiia BozhkoPost 13 (unread) in reply to 12
+27 Dec 2025 20:06
+Unread post
+Collapse post
+Hi all,
+
+I have also selected Earth as I thought it may be easier to work with a familiar planet. My total energy was calculated as -2.65 x 10^33 J at both aphelion and perihelion which seems to be the same for the others who chose Earth.
+
+Planet's orbiting is essentially a constant transfer of energy between kinetic and potential "accounts", but the total amount of energy remains the same.
