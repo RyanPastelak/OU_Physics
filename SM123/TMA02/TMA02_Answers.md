@@ -304,6 +304,7 @@ Comparing total energy values across all planets, I noticed that each planet has
 | 0.885 | 70.1 | 94.5 |
 
 **[INSERT YOUR PLOTTED GRAPH HERE]**
+![Conductivity Graph](conductivity_graph.png)
 
 The graph should show:
 - **X-axis:** Concentration (mol l⁻¹)
@@ -406,7 +407,7 @@ KS2 remains my weakest area, with low scores in basic writing, scientific writin
 | Q3 | (a)(i) Planet data table (Mars) | ✅ Complete |
 | Q3 | (a)(ii) Full workings | ✅ Complete |
 | Q3 | (b) Tutor group reflection | ✅ Complete |
-| Q4 | (a) Data table | ✅ Complete (need to insert plotted graph image) |
+| Q4 | (a) Data table | ✅ Complete |
 | Q4 | (b) Conductivity readings | ✅ Complete |
 | Q4 | (c) Comparison and explanation | ✅ Complete |
 | Q5 | Part 2 - Most improved (PPS1) | ✅ Complete |
@@ -416,7 +417,7 @@ KS2 remains my weakest area, with low scores in basic writing, scientific writin
 
 | Question | Section | What's Needed |
 |----------|---------|---------------|
-| Q4 | (a) | Insert your plotted graph image |
+| Q4 | (a) | Graph image inserted | ✅ Complete |
 | Q5 | Part 1 | Insert your radar diagram images |
 
 The theoretical frameworks, equations, and calculation methods are all provided above and are derived from the study materials.
